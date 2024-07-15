@@ -1,3 +1,4 @@
 requests>=2.20.0
 grpcio
 protobuf==3.7.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
